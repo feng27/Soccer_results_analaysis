@@ -29,8 +29,8 @@ This is a Udacity Datascientist Nano program project mean to understand the foll
 
 # File Descriptions <a name="Files"></a>
 
-01_data - The data used in this project. The soccer result file
-soccer_analysis.ipynb - the jupyter notebook for this analysis
+- 01_data - The data used in this project. The soccer result file
+- soccer_analysis.ipynb - the jupyter notebook for this analysis
 
 ## Results <a name="Results"></a>
 The results can be found [here](https://linfeng-39325.medium.com/is-samba-style-still-leading-in-the-soccer-world-61e463aec4af).
