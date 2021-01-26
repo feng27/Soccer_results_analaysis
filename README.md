@@ -1,15 +1,24 @@
 # Udacity_DS_nano_project1
 
-A repository for Data Scientist Nanoprograme project1. This repository is anylysing the world soccer results during the last 100 years.
+A repository for Data Scientist Nanoprograme project1 "Write a adata science blog post". This repository is anylysing the world soccer results during the last 100 years.
 
-Blog link:
-https://linfeng-39325.medium.com/is-samba-style-still-leading-in-the-soccer-world-61e463aec4af
+# Table of Contents
+- [Installlation](#Installation)
+- [Project Motivation](#Motivation)
+- [File Descriptions](#Files)
+- [Results](#Results)
 
-# Installations
+# Installations <a name="Installation"></a> 
 
 no need for any Installations
 
-# Project Motivation
+# The librery used in this project: <a name="Dependency"></a> 
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+
+# Project Motivation <a name="Motivation"></a> 
 
 This is a Udacity Datascientist Nano program project mean to understand the following questions
 
@@ -18,7 +27,11 @@ This is a Udacity Datascientist Nano program project mean to understand the foll
 1. Does the scores per game has any trend through time?
 
 
-# File Descriptions
+# File Descriptions <a name="Files"></a>
 
-The data is saved under 01_data
-The jupyter nodebook for this analysis: soccer_analysis.ipynb
+01_data - The data used in this project. The soccer result file
+soccer_analysis.ipynb - the jupyter notebook for this analysis
+
+## Results <a name="Results"></a>
+The results can be found [here](https://linfeng-39325.medium.com/is-samba-style-still-leading-in-the-soccer-world-61e463aec4af).
+
