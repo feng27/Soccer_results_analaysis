@@ -1,6 +1,7 @@
-# Udacity_DS_nano_project1
+# Soccer results analysis
 
-A repository for Data Scientist Nanoprograme project1 "Write a adata science blog post". This repository is anylysing the world soccer results during the last 100 years.
+This repository is anylysing the world soccer results during the last 100 years. 
+Thi is A repository created for Data Scientist Nanoprograme project1 "Write a adata science blog post". But will be further used to analyse Soccer data
 
 # Table of Contents
 - [Installlation](#Installation)
@@ -30,7 +31,7 @@ This is a Udacity Datascientist Nano program project mean to understand the foll
 # File Descriptions <a name="Files"></a>
 
 - 01_data - The data used in this project. The soccer result file
-- soccer_analysis.ipynb - the jupyter notebook for this analysis
+- soccer_analysis.ipynb - the jupyter notebook for Udacity project analysis
 
 ## Results <a name="Results"></a>
 The results can be found [here](https://linfeng-39325.medium.com/is-samba-style-still-leading-in-the-soccer-world-61e463aec4af).
